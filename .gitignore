@@ -7,10 +7,14 @@
 id_*
 # large / generated data (GitHub file limit 100 MB; kept on the VPS)
 data/
-hist/
-hist2/
-hist_dex/
-data_aman*.jsonl
+# history data: only the compressed files are committed (each < 100 MB)
+hist/*
+!hist/*.jsonl.gz
+hist2/*
+!hist2/*.jsonl.gz
+hist_dex/*
+!hist_dex/*.jsonl.gz
+# mint safety results are small: committed
 # build output and frozen binaries
 target/
 **/target/
