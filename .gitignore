@@ -1,0 +1,18 @@
+# secrets: NEVER commit
+.rpc.env
+.bitquery_token
+*.env
+*.key
+*.pem
+id_*
+# large / generated data (GitHub file limit 100 MB; kept on the VPS)
+data/
+hist/
+hist2/
+hist_dex/
+data_aman*.jsonl
+# build output and frozen binaries
+target/
+**/target/
+uji/beku/
+*.log
