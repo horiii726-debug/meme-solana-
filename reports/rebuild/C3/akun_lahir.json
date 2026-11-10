@@ -1,0 +1,295 @@
+{
+  "meteora_damm_v2 via cpamdpZCGKUy5JxQXB4dcpGPiikHawvSWAd6mEn1sGG": [
+    {
+      "account": "ComputeBudget111111111111111111111111111111",
+      "in_creations": "6/6",
+      "in_swaps": "11875/12016"
+    },
+    {
+      "account": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+      "in_creations": "6/6",
+      "in_swaps": "11907/12016"
+    },
+    {
+      "account": "11111111111111111111111111111111",
+      "in_creations": "6/6",
+      "in_swaps": "11963/12016"
+    },
+    {
+      "account": "HLnpSz9h2S4hiLQ43rnSD9XkcUThA7B8hQMKmDaiTLcC",
+      "in_creations": "6/6",
+      "in_swaps": "12016/12016"
+    },
+    {
+      "account": "3rmHSu74h1ZcmAisVcWerTCiRDQbUrBKmcwptYGjHfet",
+      "in_creations": "6/6",
+      "in_swaps": "12016/12016"
+    },
+    {
+      "account": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+      "in_creations": "6/6",
+      "in_swaps": "12016/12016"
+    },
+    {
+      "account": "So11111111111111111111111111111111111111112",
+      "in_creations": "6/6",
+      "in_swaps": "12016/12016"
+    },
+    {
+      "account": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+      "in_creations": "6/6",
+      "in_swaps": "12016/12016"
+    },
+    {
+      "account": "cpamdpZCGKUy5JxQXB4dcpGPiikHawvSWAd6mEn1sGG",
+      "in_creations": "6/6",
+      "in_swaps": "12016/12016"
+    }
+  ],
+  "meteora_damm_v2 via dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN": [
+    {
+      "account": "FhVo3mqL8PW5pH5U2CN4XE33DokiyZnUwuGpH2hmHLuM",
+      "in_creations": "8/8",
+      "in_swaps": "0/12016"
+    },
+    {
+      "account": "A8gMrEPJkacWkcb3DGwtJwTe16HktSEfvwtuDh2MCtck",
+      "in_creations": "8/8",
+      "in_swaps": "0/12016"
+    },
+    {
+      "account": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
+      "in_creations": "8/8",
+      "in_swaps": "0/12016"
+    },
+    {
+      "account": "11111111111111111111111111111111",
+      "in_creations": "8/8",
+      "in_swaps": "11963/12016"
+    },
+    {
+      "account": "cpamdpZCGKUy5JxQXB4dcpGPiikHawvSWAd6mEn1sGG",
+      "in_creations": "8/8",
+      "in_swaps": "12016/12016"
+    },
+    {
+      "account": "HLnpSz9h2S4hiLQ43rnSD9XkcUThA7B8hQMKmDaiTLcC",
+      "in_creations": "8/8",
+      "in_swaps": "12016/12016"
+    },
+    {
+      "account": "So11111111111111111111111111111111111111112",
+      "in_creations": "8/8",
+      "in_swaps": "12016/12016"
+    },
+    {
+      "account": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+      "in_creations": "8/8",
+      "in_swaps": "12016/12016"
+    },
+    {
+      "account": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+      "in_creations": "8/8",
+      "in_swaps": "12016/12016"
+    },
+    {
+      "account": "3rmHSu74h1ZcmAisVcWerTCiRDQbUrBKmcwptYGjHfet",
+      "in_creations": "8/8",
+      "in_swaps": "12016/12016"
+    }
+  ],
+  "pumpswap via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P": [
+    {
+      "account": "HFFCoK6gSq5wJ5Q5N3fNeGhjMSCgqH5HSAEsyPQU6ySA",
+      "in_creations": "1/1",
+      "in_swaps": "0/11309"
+    },
+    {
+      "account": "9C4nRvhhVquCKATjDCx5FKvNS9PNgNqgyWy9AcoDjYv5",
+      "in_creations": "1/1",
+      "in_swaps": "0/11309"
+    },
+    {
+      "account": "3bV4aLkVLeeNzc3zyRt7jbEveVrxo22hnrMYWNiMTitz",
+      "in_creations": "1/1",
+      "in_swaps": "0/11309"
+    },
+    {
+      "account": "3avikkoLihNtJPHmBmtQH1xCK6HDMLoVuGKUA2ebFN82",
+      "in_creations": "1/1",
+      "in_swaps": "0/11309"
+    },
+    {
+      "account": "3y11LuUVcg5N2swydsqW9eyAUhn26QqwJaCiXgUuYKK8",
+      "in_creations": "1/1",
+      "in_swaps": "0/11309"
+    },
+    {
+      "account": "69n8P8kL1JpYv8ANkfRPPSG188qgxxej4jqSA9ZDYKf",
+      "in_creations": "1/1",
+      "in_swaps": "0/11309"
+    },
+    {
+      "account": "7qvLPSLhcnoqwKQfvgrNUgdALYbfM3b7Ur2wzVJbFEqs",
+      "in_creations": "1/1",
+      "in_swaps": "0/11309"
+    },
+    {
+      "account": "23Ktv6EXyH1ewk57YRcu3kHfWfbb5xxb9nnns76AGe55",
+      "in_creations": "1/1",
+      "in_swaps": "0/11309"
+    },
+    {
+      "account": "4FzH5d655X6EndExEphscwtrq8oZsJyzfkn2JGRRHguh",
+      "in_creations": "1/1",
+      "in_swaps": "0/11309"
+    },
+    {
+      "account": "3FJkP8ifrgXsqXjsNKznA5PkDAzmDZ9yj5reYNtaaQJn",
+      "in_creations": "1/1",
+      "in_swaps": "0/11309"
+    },
+    {
+      "account": "39azUYFWPz3VHgKCf3VChUwbpURdCHRxjWVowf5jUJjg",
+      "in_creations": "1/1",
+      "in_swaps": "0/11309"
+    },
+    {
+      "account": "AM9ABeyNUKVDJmwDtgmP6ubVPNmCyQA1UN4BMtTdgFMT",
+      "in_creations": "1/1",
+      "in_swaps": "0/11309"
+    },
+    {
+      "account": "Ce6TQqeHC9p8KetsN6JsjHK7UTZk7nasjjnr7XxXp9F1",
+      "in_creations": "1/1",
+      "in_swaps": "2/11309"
+    },
+    {
+      "account": "4wTV1YmiEkRvAtNtsSGPtUrqRYQMe5SKy2uB4Jjaxnjf",
+      "in_creations": "1/1",
+      "in_swaps": "2/11309"
+    },
+    {
+      "account": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "in_creations": "1/1",
+      "in_swaps": "2/11309"
+    },
+    {
+      "account": "SysvarRent111111111111111111111111111111111",
+      "in_creations": "1/1",
+      "in_swaps": "51/11309"
+    },
+    {
+      "account": "J3Ue7PjeRvywRn28dSg5Fxpvw35UGs4Fb3Th6nwxRr95",
+      "in_creations": "1/1",
+      "in_swaps": "420/11309"
+    },
+    {
+      "account": "BxJSHz5du8cfUQHonyVV2evngF3F7F6q9cXpBfd7pump",
+      "in_creations": "1/1",
+      "in_swaps": "420/11309"
+    },
+    {
+      "account": "2F4NmbwKAssDT64bgN6NUeW3MVMueUVShSzWFpCrLVwp",
+      "in_creations": "1/1",
+      "in_swaps": "420/11309"
+    },
+    {
+      "account": "iQ8BZ5dVa9z5RkFJZkn7fBVETCDsiDb8hVM4ok8etLy",
+      "in_creations": "1/1",
+      "in_swaps": "420/11309"
+    },
+    {
+      "account": "ComputeBudget111111111111111111111111111111",
+      "in_creations": "1/1",
+      "in_swaps": "10783/11309"
+    },
+    {
+      "account": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+      "in_creations": "1/1",
+      "in_swaps": "11177/11309"
+    },
+    {
+      "account": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+      "in_creations": "1/1",
+      "in_swaps": "11309/11309"
+    },
+    {
+      "account": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+      "in_creations": "1/1",
+      "in_swaps": "11309/11309"
+    },
+    {
+      "account": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+      "in_creations": "1/1",
+      "in_swaps": "11309/11309"
+    },
+    {
+      "account": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+      "in_creations": "1/1",
+      "in_swaps": "11309/11309"
+    },
+    {
+      "account": "11111111111111111111111111111111",
+      "in_creations": "1/1",
+      "in_swaps": "11309/11309"
+    },
+    {
+      "account": "So11111111111111111111111111111111111111112",
+      "in_creations": "1/1",
+      "in_swaps": "11309/11309"
+    },
+    {
+      "account": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+      "in_creations": "1/1",
+      "in_swaps": "11309/11309"
+    }
+  ],
+  "pumpswap via pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA": [
+    {
+      "account": "ComputeBudget111111111111111111111111111111",
+      "in_creations": "6/6",
+      "in_swaps": "10783/11309"
+    },
+    {
+      "account": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+      "in_creations": "6/6",
+      "in_swaps": "11177/11309"
+    },
+    {
+      "account": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+      "in_creations": "6/6",
+      "in_swaps": "11309/11309"
+    },
+    {
+      "account": "So11111111111111111111111111111111111111112",
+      "in_creations": "6/6",
+      "in_swaps": "11309/11309"
+    },
+    {
+      "account": "11111111111111111111111111111111",
+      "in_creations": "6/6",
+      "in_swaps": "11309/11309"
+    },
+    {
+      "account": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+      "in_creations": "6/6",
+      "in_swaps": "11309/11309"
+    },
+    {
+      "account": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+      "in_creations": "6/6",
+      "in_swaps": "11309/11309"
+    },
+    {
+      "account": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+      "in_creations": "6/6",
+      "in_swaps": "11309/11309"
+    },
+    {
+      "account": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+      "in_creations": "6/6",
+      "in_swaps": "11309/11309"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+train rows 397, NEW test coins 0
+{"BUY_ALL":{"n":0},"REJECTED":{"n":0},"SELECTED":{"n":0},"frac":0.3,"new_test_coins":0,"plan":"Plan { tiers: [(2.0, 0.7), (3.0, 0.2)], trail: 0.3, max_age: 120.0 }","radar":{"base_rate_2x":0.0,"precision_2x":0.0,"recall_2x":0.0,"rug5_in_selected":0.0,"selected":0},"tau":15.0,"train_rows":397}

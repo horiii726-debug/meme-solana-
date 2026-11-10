@@ -1,0 +1,6 @@
+getBlockTime 467418370 = 1794248947 ; 467318370 = 1794227483 (100000 slots / 21464 s)
+getFirstAvailableBlock = 467193971 ; minimumLedgerSlot = 467193970
+getBlockTime 467192425 -> Block cleaned up, First available block: 467193971
+getTransaction on 4 repo signatures from 2026-11-02 (hist, hist_dex dbc) -> result null (4/4)
+getSignaturesForAddress on 6 creator wallets from 2026-11-02 -> 0 signatures (address index also limited)
+gRPC grpc.ankr.com:443 GetVersion: x-token=our key -> grpc-status 7 API key is not allowed to access blockchain; no key -> 16 API Key required; wrong key -> 16 API key not found

@@ -1,0 +1,36 @@
+# secrets: NEVER commit
+.rpc.env
+.bitquery_token
+*.env
+*.key
+*.pem
+id_*
+# large / generated data (GitHub file limit 100 MB; kept on the VPS)
+data/
+# history data: only the compressed files are committed (each < 100 MB)
+hist/*
+!hist/*.jsonl.gz
+hist2/*
+!hist2/*.jsonl.gz
+hist_dex/*
+!hist_dex/*.jsonl.gz
+# mint safety results are small: committed
+# build output and frozen binaries
+target/
+**/target/
+uji/beku/
+*.log
+raw/
+raw_1000/
+raw_more/
+raw_hist_test/
+raw_hist_test2/
+raw_gtfa_check/
+raw_verify/
+raw_live_only/
+supply.tsv
+exclude_pools.txt
+reports/rebuild/explore/*.jsonl
+dompet.jsonl
+early_buyers.tsv
+raw_verify_pools.txt

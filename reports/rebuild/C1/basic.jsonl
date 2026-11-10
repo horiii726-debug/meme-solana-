@@ -1,0 +1,14 @@
+{"err":null,"ms":98.187257,"ok":true,"test":"getSlot"}
+{"ms":22.105318,"ok":true,"test":"getVersion","version":{"feature-set":2681577653,"solana-core":"4.4.1"}}
+{"message_fields":["accountKeys","header","instructions","recentBlockhash","transactionConfig"],"meta_fields":["computeUnitsConsumed","costUnits","err","fee","innerInstructions","loadedAddresses","logMessages","postBalances","postTokenBalances","preBalances","preTokenBalances","rewards","status"],"test":"v1_tx_shape"}
+{"blockTime":1794248646,"failed_tx_in_block":213,"ms":239.901035,"ok":true,"order":{"broken":0,"consistent":2096,"transitions_checked":2096,"txs":494},"slot":467416967,"test":"getBlock_full","txs":494,"v1_with_accountKeys":"194/194","versions":{"\"legacy\"":120,"0":180,"1":194}}
+{"blockTime":1794248647,"failed_tx_in_block":164,"ms":115.376286,"ok":true,"order":{"broken":0,"consistent":1559,"transitions_checked":1559,"txs":435},"slot":467416974,"test":"getBlock_full","txs":435,"v1_with_accountKeys":"169/169","versions":{"\"legacy\"":109,"0":157,"1":169}}
+{"blockTime":1794248649,"failed_tx_in_block":151,"ms":131.254598,"ok":true,"order":{"broken":0,"consistent":1531,"transitions_checked":1531,"txs":406},"slot":467416981,"test":"getBlock_full","txs":406,"v1_with_accountKeys":"143/143","versions":{"\"legacy\"":99,"0":164,"1":143}}
+{"ms":494.64189600000003,"n":1000,"ok":true,"test":"getSignaturesForAddress_page1"}
+{"ms":533.599443,"n":1000,"ok":true,"overlap_with_page1":0,"slots_non_increasing":true,"test":"getSignaturesForAddress_page2_before"}
+{"failed":444,"of":1000,"test":"failed_share_in_sig_list"}
+{"blockTime":1794248668,"computeUnitsConsumed":102216,"err":null,"fee":205000,"has_inner":true,"has_loadedAddresses":true,"has_logs":true,"has_meta":true,"has_pre_post_token_balances":true,"meta_err":null,"ms":30.100154,"ok":true,"test":"getTransaction_success","version":0}
+{"decimals":6,"err":null,"has_mintAuthority_field":true,"ms":21.325115,"ok":true,"owner":"TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb","test":"getAccountInfo_mint_jsonParsed"}
+{"err":null,"ms":29.153351,"n":20,"ok":true,"test":"getTokenLargestAccounts"}
+{"blockTime":1794248668,"computeUnitsConsumed":3523,"err":null,"fee":5312,"has_inner":true,"has_loadedAddresses":true,"has_logs":true,"has_meta":true,"has_pre_post_token_balances":true,"meta_err":{"InstructionError":[0,{"Custom":2768240640}]},"ms":25.340137,"ok":true,"test":"getTransaction_failed","version":1}
+{"per_method":{"getAccountInfo":1,"getBlock":3,"getSignaturesForAddress":2,"getSlot":1,"getTokenLargestAccounts":1,"getTransaction":2,"getVersion":1},"test":"call_count","total_calls":11}

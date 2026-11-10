@@ -1,0 +1,7 @@
+{"achieved_ok_rps":9.71656068359275,"latency_ms":{"max":229.88824599999998,"n":40,"p50":105.07097999999999,"p90":189.178203},"ok":40,"other_err":0,"rate_limited":0,"target_rps":10,"test":"rate_getSlot"}
+{"achieved_ok_rps":24.74417417731823,"latency_ms":{"max":207.396994,"n":100,"p50":124.74533699999999,"p90":138.028949},"ok":100,"other_err":0,"rate_limited":0,"target_rps":25,"test":"rate_getSlot"}
+{"achieved_ok_rps":48.85846817233731,"latency_ms":{"max":201.21112599999998,"n":200,"p50":105.788714,"p90":134.162129},"ok":200,"other_err":0,"rate_limited":0,"target_rps":50,"test":"rate_getSlot"}
+{"achieved_ok_rps":97.19670913228957,"latency_ms":{"max":204.168453,"n":400,"p50":105.42636399999999,"p90":120.531689},"ok":400,"other_err":0,"rate_limited":0,"target_rps":100,"test":"rate_getSlot"}
+{"achieved_ok_rps":193.85022729926575,"latency_ms":{"max":223.464317,"n":800,"p50":105.675303,"p90":124.683537},"ok":800,"other_err":0,"rate_limited":0,"target_rps":200,"test":"rate_getSlot"}
+{"achieved_ok_rps":389.37854785854915,"latency_ms":{"max":299.731899,"n":1598,"p50":104.806858,"p90":112.424248},"ok":1598,"other_err":0,"rate_limited":0,"target_rps":400,"test":"rate_getSlot"}
+{"per_method":{"getSlot":3138},"test":"call_count","total_calls":3138}

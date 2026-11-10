@@ -1,0 +1,1 @@
+{"damm_v2":{"predicted":11448,"rel_err_median":4.8127458090623155e-6,"rel_err_p90":0.058178247591620984,"rel_err_p99":0.9902943606086199,"share_within_0.5pct":0.6616002795248078},"pumpswap":{"exact_curve_match":2489,"exact_user_amount_match":8620,"rel_err_median":1.0336471111376102e-7,"rel_err_p99":0.10994011049127692,"swaps":11575}}

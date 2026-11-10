@@ -1,0 +1,1 @@
+rows 2803, features per row 888, pools 2016 (train 1209, test 807)

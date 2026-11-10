@@ -1,0 +1,11 @@
+[package]
+name = "dekode"
+version = "0.1.0"
+edition = "2021"
+
+# C3 decoders driven by the official IDLs. Read-only, offline (reads raw files).
+[dependencies]
+serde_json = "1"
+bs58 = "0.5"
+base64 = "0.22"
+zstd = "0.13"

@@ -1,0 +1,11 @@
+[package]
+name = "probe"
+version = "0.1.0"
+edition = "2021"
+
+# C1 Ankr capability probe. Read-only: no transactions, no keys printed.
+[dependencies]
+serde_json = "1"
+ureq = { version = "2", features = ["json"] }
+tungstenite = { version = "0.24", features = ["native-tls"] }
+bs58 = "0.5"

@@ -1,0 +1,3 @@
+{"first_ms":344.02705,"last_notif_slot_behind_tip":1,"notifications_15s":12148,"notifications_with_err":4830,"subscribe_reply":"subscribed","test":"wss_logsSubscribe"}
+{"first_ms":27.791245999999997,"last_notif_slot_behind_tip":22,"notifications_15s":4459,"notifications_with_err":0,"subscribe_reply":"subscribed","test":"wss_programSubscribe"}
+{"per_method":{"getSlot":2},"test":"call_count","total_calls":2}

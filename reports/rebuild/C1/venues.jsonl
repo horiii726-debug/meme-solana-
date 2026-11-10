@@ -1,0 +1,10 @@
+{"est_tx_per_day":75422782.0,"failed":15677,"pages":40,"test":"venue_rate","tx_in_window":40000,"tx_per_s":872.9488684367118,"venue":"pumpswap","window_s":45.8216986656189}
+{"create_ix":0,"distinct_pools":10,"test":"venue_sample","tx_decoded":25,"venue":"pumpswap","with_swap_ix":11}
+{"capped_at_20k":3,"pools":10,"test":"pool_tx_6h","tx_6h":{"max":20000.0,"n":10,"p50":10566.0,"p90":20000.0},"values":[20000.0,4681.0,2126.0,12104.0,4085.0,457.0,20000.0,936.0,10566.0,20000.0],"venue":"pumpswap"}
+{"est_tx_per_day":3884549.0,"failed":4024,"pages":14,"test":"venue_rate","tx_in_window":13480,"tx_per_s":44.960054792544526,"venue":"raydium_cpmm","window_s":299.8216986656189}
+{"create_ix":0,"distinct_pools":2,"test":"venue_sample","tx_decoded":25,"venue":"raydium_cpmm","with_swap_ix":3}
+{"capped_at_20k":1,"pools":2,"test":"pool_tx_6h","tx_6h":{"max":20000.0,"n":2,"p50":20000.0,"p90":20000.0},"values":[20000.0,71.0],"venue":"raydium_cpmm"}
+{"est_tx_per_day":7778607.0,"failed":5278,"pages":27,"test":"venue_rate","tx_in_window":26993,"tx_per_s":90.03017500112422,"venue":"meteora_damm_v2","window_s":299.8216986656189}
+{"create_ix":0,"distinct_pools":9,"test":"venue_sample","tx_decoded":25,"venue":"meteora_damm_v2","with_swap_ix":8}
+{"capped_at_20k":1,"pools":9,"test":"pool_tx_6h","tx_6h":{"max":20000.0,"n":9,"p50":700.0,"p90":2449.0},"values":[2449.0,1979.0,1046.0,20000.0,185.0,700.0,52.0,348.0,112.0],"venue":"meteora_damm_v2"}
+{"per_method":{"getSignaturesForAddress":233,"getTransaction":75},"test":"call_count","total_calls":308}

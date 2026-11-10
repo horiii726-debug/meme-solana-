@@ -1,0 +1,322 @@
+{
+  "events": {
+    "meteora_damm_v2:EvtClaimPositionFee": 11,
+    "meteora_damm_v2:EvtClosePosition": 9,
+    "meteora_damm_v2:EvtCreatePosition": 18,
+    "meteora_damm_v2:EvtInitializePool": 14,
+    "meteora_damm_v2:EvtLiquidityChange": 16,
+    "meteora_damm_v2:EvtLockPosition": 8,
+    "meteora_damm_v2:EvtSwap2": 12623,
+    "pumpswap:BuyEvent": 3540,
+    "pumpswap:CloseUserVolumeAccumulatorEvent": 14,
+    "pumpswap:CreatePoolEvent": 7,
+    "pumpswap:ExtendAccountEvent": 3,
+    "pumpswap:InitUserVolumeAccumulatorEvent": 3,
+    "pumpswap:SellEvent": 8709,
+    "pumpswap:SweepPoolFeeEvent": 43,
+    "pumpswap:WithdrawEvent": 3
+  },
+  "events_unpaired": 0,
+  "liquidity_events_per_pool": {
+    "meteora_damm_v2 4Wrxr8Yx2hbGVwnWMAWzZfraRUWRUw5rHt3wJFk4DNFd EvtLiquidityChange": 3,
+    "meteora_damm_v2 5njq7paseR1tK4XX7heLfzp1xVZdxhPB9VKVXgdU5ANa EvtLiquidityChange": 1,
+    "meteora_damm_v2 64ozCqr4id1VXEDy3UFVEDATZmf4ZRGPYUWrmJssDTSv EvtLiquidityChange": 1,
+    "meteora_damm_v2 6XfZLNffr1EZ9hNFv6UAXY5sL2M1wCSUgqZta2rff2Ft EvtLiquidityChange": 3,
+    "meteora_damm_v2 7CEg64DDnpBFqpeLE43hAdFsxaAQPb4fV8P6r7j314Qp EvtLiquidityChange": 1,
+    "meteora_damm_v2 7WiPmVQjCXVc78t3ibEB16rJ145smd45YJUb7kWwL8ZU EvtLiquidityChange": 3,
+    "meteora_damm_v2 ATjSX2amKPXyR4bdjThquxUVHXYwZDbGH2ehYbhaN6Fj EvtLiquidityChange": 3,
+    "meteora_damm_v2 EXmN8hGefbWLUfE864RrCNJD6UzPvUVjCRnbEdUghdsJ EvtLiquidityChange": 1,
+    "pumpswap 43M2QmjREZAcWAyy4XafsgdNztHVRpP98eDN8BWnSPpp WithdrawEvent": 1,
+    "pumpswap BWaRUyGzYaJWv5pZFenYSEpxRUWCi3Qk9SaAyph6q5gP WithdrawEvent": 1,
+    "pumpswap HEEoimnxCsegpUFSYTtpaXG9d6EnFaF4UBXYi1Ye2ngS WithdrawEvent": 1
+  },
+  "pool_mints (venue, base/A, quote/B)": {
+    "2F4NmbwKAssDT64bgN6NUeW3MVMueUVShSzWFpCrLVwp": [
+      "pumpswap",
+      "BxJSHz5du8cfUQHonyVV2evngF3F7F6q9cXpBfd7pump",
+      "So11111111111111111111111111111111111111112"
+    ],
+    "43M2QmjREZAcWAyy4XafsgdNztHVRpP98eDN8BWnSPpp": [
+      "pumpswap",
+      "So11111111111111111111111111111111111111112",
+      "CZXRAH5fcYgx9j26NGtMSoUogKKfQnBdFZtuevTdeoio"
+    ],
+    "4Wrxr8Yx2hbGVwnWMAWzZfraRUWRUw5rHt3wJFk4DNFd": [
+      "meteora_damm_v2",
+      "So11111111111111111111111111111111111111112",
+      "Di59H5LVCySghXXDkb4rSCKEyAmWBdSUm8WyGci4T5nE"
+    ],
+    "5njq7paseR1tK4XX7heLfzp1xVZdxhPB9VKVXgdU5ANa": [
+      "meteora_damm_v2",
+      "So11111111111111111111111111111111111111112",
+      "2evXCHd4fKTz1xdrJS36742ki1D8LAQtK3HSX7ckgG2J"
+    ],
+    "64ozCqr4id1VXEDy3UFVEDATZmf4ZRGPYUWrmJssDTSv": [
+      "meteora_damm_v2",
+      "J7xjeAkpGE651UtafZJK2nAurrwuWhuWXLg84fRyqs2Y",
+      "So11111111111111111111111111111111111111112"
+    ],
+    "6XfZLNffr1EZ9hNFv6UAXY5sL2M1wCSUgqZta2rff2Ft": [
+      "meteora_damm_v2",
+      "So11111111111111111111111111111111111111112",
+      "7zTiS19mWAtJkfDcnMz3V3ivPQ55WiwzCQNiiXk9rtiJ"
+    ],
+    "6tbxf4tjuy1HULaZNKLLussVGwgFVVwo6X2WNfVD65S7": [
+      "meteora_damm_v2",
+      "3pDVWSbP2nTVoESm5QfagoHZN3mNSrofsh1DLZeSXJ22",
+      "So11111111111111111111111111111111111111112"
+    ],
+    "7CEg64DDnpBFqpeLE43hAdFsxaAQPb4fV8P6r7j314Qp": [
+      "meteora_damm_v2",
+      "GdLtnZe8GjC9tmMFBUPnrNCA5Cr7RFh6rcrcVp5JzEzu",
+      "So11111111111111111111111111111111111111112"
+    ],
+    "7WiPmVQjCXVc78t3ibEB16rJ145smd45YJUb7kWwL8ZU": [
+      "meteora_damm_v2",
+      "So11111111111111111111111111111111111111112",
+      "4qoRpaDYPRSAmDYEpjYZ173c1GC2Ay9STUg1XhEBV4RX"
+    ],
+    "93j86zFasFLWrK8iEM3TzKZNEdtfthX8YivXSon9mHCT": [
+      "meteora_damm_v2",
+      "2CKWWpt4tLNXmAZ3CMyRYNRydZekvfunF1roUjwGrjNw",
+      "So11111111111111111111111111111111111111112"
+    ],
+    "9MaeyrNN1agvjYXTnnRmMHSCWnuG7wD5T6tKZRL3wxJ4": [
+      "pumpswap",
+      "So11111111111111111111111111111111111111112",
+      "5DoeVA5GSBXXdNv6wGz9az9F8Fm3X5jySZseEkhxYSTr"
+    ],
+    "ATjSX2amKPXyR4bdjThquxUVHXYwZDbGH2ehYbhaN6Fj": [
+      "meteora_damm_v2",
+      "So11111111111111111111111111111111111111112",
+      "9XazkNKvq3cavcMr9nmaBUK8HhkLEn78R5UjzseA3Xga"
+    ],
+    "AVWTo8BM15dqwJXQuTABP8UwuQFZxy3RB4eW83Y5hjuJ": [
+      "meteora_damm_v2",
+      "4khuPqqNd7RQyQcHeCYjsmjRywfLF9SUuTzWMhumFyWP",
+      "So11111111111111111111111111111111111111112"
+    ],
+    "Aj43W6n4hSt3y16sVzoYWhWVGJTmz5YLCCgqgJE3dUH": [
+      "meteora_damm_v2",
+      "CZXRAH5fcYgx9j26NGtMSoUogKKfQnBdFZtuevTdeoio",
+      "So11111111111111111111111111111111111111112"
+    ],
+    "BWaRUyGzYaJWv5pZFenYSEpxRUWCi3Qk9SaAyph6q5gP": [
+      "pumpswap",
+      "So11111111111111111111111111111111111111112",
+      "8xTw38rSATuM9RGDZrGZ6Cadi8GmaC54BsEEo9UrZYk6"
+    ],
+    "ChWeXnVXNNMkH2yudP5b81siMrok5Lamp3ygAHLP2Dpc": [
+      "meteora_damm_v2",
+      "Ewx1nHAksaf8JoyhXdtBpf4JT6UnSzEGjNp3p8XEYmKb",
+      "So11111111111111111111111111111111111111112"
+    ],
+    "Cn7xiqnseWFZrpaxsoGebsmf9iNnRwGRyLeAsbJ8JwDi": [
+      "pumpswap",
+      "So11111111111111111111111111111111111111112",
+      "2CKWWpt4tLNXmAZ3CMyRYNRydZekvfunF1roUjwGrjNw"
+    ],
+    "DkHanFwazRMKFkQvKtQAoRPwY7GA9k8PzEZkUEU3GGVi": [
+      "pumpswap",
+      "So11111111111111111111111111111111111111112",
+      "Ewx1nHAksaf8JoyhXdtBpf4JT6UnSzEGjNp3p8XEYmKb"
+    ],
+    "EXmN8hGefbWLUfE864RrCNJD6UzPvUVjCRnbEdUghdsJ": [
+      "meteora_damm_v2",
+      "So11111111111111111111111111111111111111112",
+      "5ar6FpA8GH3ncY8VuqXsvRHddxK6zBKsVvSniw3yHvTf"
+    ],
+    "Fxh88FuGTmpzMDY4TdbdusdWWjEU6Ac3qSvVQkLhxaiY": [
+      "meteora_damm_v2",
+      "5DoeVA5GSBXXdNv6wGz9az9F8Fm3X5jySZseEkhxYSTr",
+      "So11111111111111111111111111111111111111112"
+    ],
+    "HEEoimnxCsegpUFSYTtpaXG9d6EnFaF4UBXYi1Ye2ngS": [
+      "pumpswap",
+      "So11111111111111111111111111111111111111112",
+      "4khuPqqNd7RQyQcHeCYjsmjRywfLF9SUuTzWMhumFyWP"
+    ]
+  },
+  "reconciliation": {
+    "damm_v2_swap": {
+      "identity_hits": {
+        "dir: input vault increased (0 = A->B)": "11409/11409 = 100.00%",
+        "in: d_in == excluded_fee_input_amount": "8911/11409 = 78.11%",
+        "in: d_in == included_fee_input_amount": "11401/11409 = 99.93%",
+        "in: d_in == included_transfer_fee_amount_in": "11401/11409 = 99.93%",
+        "out: -d_out == included_transfer_fee_amount_out": "11372/11409 = 99.68%",
+        "out: -d_out == output_amount": "11372/11409 = 99.68%",
+        "reserve_a == vault_a POST": "7803/11409 = 68.39%",
+        "reserve_b == vault_b POST": "21/11409 = 0.18%"
+      },
+      "miss_examples": {
+        "in: d_in == excluded_fee_input_amount": [
+          "4bTkz6pCcGPLPCC7tp649umb3Wr7ttAqo4wXVRQZ4WCQ5Y48BbgXdMw4p6YbNPA2zs5F7m6FneNqPaHhrkQKpPNN",
+          "3MiCWWZap9CWRkNrpg8o5B7fGEJjuQeHyQLSAzCu4a5YV472NcWzcrxMm8kfsrWmzM9QcmZm5p3FbeGBPHcsJs2V",
+          "3bf8k2h57KVPxRcdExDiKk4aLGsBEWMsMssz7RAmedYy4PGrGQkRr1ve4AGgCH1P8QLA9cxaJ7Ri5Wo413RQ8kJY"
+        ],
+        "in: d_in == included_fee_input_amount": [
+          "noSyynjTGGLr6ET95eYZadqBovjok1RjHANaUF5PnJrgVjjEGjSLeGfo9kmzFv5ZJo5ydcsypGmA3v9Z3A9m8M2",
+          "Hqa7AfDoFt3XVbiSjKZGPSFodLCM1jvAqNbx6TEUXdqPYFSeXtBtj6HkWtM1TApMyUTsSvxd76diLobuhWmB51A",
+          "wZRLqP8tkTih2Vwtrnqdp5GcdJcEYjf1N5FXc5TKxJgqBKKe8C3coLXRvegFGmkxdaEbrYTCsrbvD8y4JKfrQWm"
+        ],
+        "in: d_in == included_transfer_fee_amount_in": [
+          "noSyynjTGGLr6ET95eYZadqBovjok1RjHANaUF5PnJrgVjjEGjSLeGfo9kmzFv5ZJo5ydcsypGmA3v9Z3A9m8M2",
+          "Hqa7AfDoFt3XVbiSjKZGPSFodLCM1jvAqNbx6TEUXdqPYFSeXtBtj6HkWtM1TApMyUTsSvxd76diLobuhWmB51A",
+          "wZRLqP8tkTih2Vwtrnqdp5GcdJcEYjf1N5FXc5TKxJgqBKKe8C3coLXRvegFGmkxdaEbrYTCsrbvD8y4JKfrQWm"
+        ],
+        "out: -d_out == included_transfer_fee_amount_out": [
+          "4JWm6qJhNvb8HE5rzT4Nvg5Z7voogJcB32DczKSp37DMapkyFoWtTUpQWDqPaHJ9m48EzT8MNgvyi2CAPcjn6MRv",
+          "5tDu5GGs7Xu6xHouTx4AWkingRWrLH6iuWXZtAnKic6C1r9wRDEwmJjp7QqDr6M2zg6LyvQ79Un2jR9ygZSUk5JL",
+          "3WAfuD6WvV66gtqdBZw4gHThricYgXsDS5qdVVY7UCuG4c2tXU4JvR6R6kk8VZpKKzRtMjchy9gLo1GpWrYfzui8"
+        ],
+        "out: -d_out == output_amount": [
+          "4JWm6qJhNvb8HE5rzT4Nvg5Z7voogJcB32DczKSp37DMapkyFoWtTUpQWDqPaHJ9m48EzT8MNgvyi2CAPcjn6MRv",
+          "5tDu5GGs7Xu6xHouTx4AWkingRWrLH6iuWXZtAnKic6C1r9wRDEwmJjp7QqDr6M2zg6LyvQ79Un2jR9ygZSUk5JL",
+          "3WAfuD6WvV66gtqdBZw4gHThricYgXsDS5qdVVY7UCuG4c2tXU4JvR6R6kk8VZpKKzRtMjchy9gLo1GpWrYfzui8"
+        ],
+        "reserve_a == vault_a POST": [
+          "55HBF8eLrRDpHJDsDa2mDxn9D2KSGUGsXBv1EVQbqerEtxvZ4xw312SUTk27RjE6u221UoPza8QUCMbW443XVcV3",
+          "3dRbi9vAcqB3ctnvDPEL1EdNKqQ1uVSTF8FZefvUvhyd79y7SH3tNFHDoaxwmPBJcuUkVyotFkeYz6xXPhxJoKNb",
+          "3NGkRSXSDRJR6obhXqukywgfS2oVGupDY5ZXNMtDz6qa87oEHrGCKtqrtQ4Vq114H9xJjWtNHaKAFCNMX6D67d9m"
+        ],
+        "reserve_b == vault_b POST": [
+          "3CVmWU3SoGZdRab7MGhfUBLJGeEEB5GHLYuwCjNqEZm3BmLuvFDNGZFhQVowgAxHBR63k1QNRDiwGLCjxWK1TMYT",
+          "2YhYj41MxTGnELWEhLg9q8LwyKLwPQwTCuWSMnEiug4tMXKPw5ADG4pF9rCiWXYeA3iw2wYbhyFL6pYArEnvpbpD",
+          "fGrMUkx359m8GBAzvPwMAdYR6awEP1uCia4ZU8Nd7E1HoinSmrCHaHuWCgzmcyZzTUCkHcQsKuXrYFYwTTqV7zf"
+        ]
+      },
+      "swaps": 11409
+    },
+    "pumpswap_buy": {
+      "identity_hits": {
+        "base: -d_base_vault == base_amount_out": "2599/2599 = 100.00%",
+        "quote: d_quote_vault == quote_amount_in": "104/2599 = 4.00%",
+        "quote: d_quote_vault == quote_amount_in + lp_fee": "40/2599 = 1.54%",
+        "quote: d_quote_vault == quote_amount_in_with_lp_fee": "2448/2599 = 94.19%",
+        "reserves: event pool_base == vault POST": "0/2599 = 0.00%",
+        "reserves: event pool_base == vault PRE": "2599/2599 = 100.00%",
+        "reserves: event pool_quote == vault POST": "0/2599 = 0.00%",
+        "reserves: event pool_quote == vault PRE": "2599/2599 = 100.00%"
+      },
+      "miss_examples": {
+        "quote: d_quote_vault == quote_amount_in": [
+          "YxyzYgRZjMWZpooQhdGpmP1u3UU1Aa5xy3bA6sTNDQhPN1oxAnvF8jGE1pgHgXwN1upyeENq8c25i2HBKvsrtR3",
+          "3xfMqsQWoF5NmmRNm8zmjCXp4iLBsTR6nFLEA7BcEdos36Vi5ui5P7QhsK4iPuFCP2juyQnGFdJJ3D4nqB7TTo3o",
+          "3PSFUJZeLwCg7VenSVwYojPX1cKDpiHmWQBCLFaGMapsSQNWHfgo7wBqowkwz7jEwwDFUNHPUqFXhUrw5fkyeR9h"
+        ],
+        "quote: d_quote_vault == quote_amount_in + lp_fee": [
+          "YxyzYgRZjMWZpooQhdGpmP1u3UU1Aa5xy3bA6sTNDQhPN1oxAnvF8jGE1pgHgXwN1upyeENq8c25i2HBKvsrtR3",
+          "3xfMqsQWoF5NmmRNm8zmjCXp4iLBsTR6nFLEA7BcEdos36Vi5ui5P7QhsK4iPuFCP2juyQnGFdJJ3D4nqB7TTo3o",
+          "3PSFUJZeLwCg7VenSVwYojPX1cKDpiHmWQBCLFaGMapsSQNWHfgo7wBqowkwz7jEwwDFUNHPUqFXhUrw5fkyeR9h"
+        ],
+        "quote: d_quote_vault == quote_amount_in_with_lp_fee": [
+          "MVzQ5QzbgjFqHYriWmuFebabgCSaCenzNRDFnHWDH2kemGHPVd9gWTJ6TVDvDoTMj4cfYXDHH4dDswFwmrScds4",
+          "2oezK4S5s5D3Lw2y7GLakwCSPHZtqKeoSx1z9uFgEdYitS2Mp1vgnZATDZ1RHY3qsMarE71TVRLqcsiegJLHhufz",
+          "4QSnWyfR9kb53CQXtA7LqqgFKF68SN8f1E4qqQi46sTg7Rfm5Vjmx2TmiSxWz1VbfW74Sdey7M9cNy1RaqRiQrwz"
+        ],
+        "reserves: event pool_base == vault POST": [
+          "YxyzYgRZjMWZpooQhdGpmP1u3UU1Aa5xy3bA6sTNDQhPN1oxAnvF8jGE1pgHgXwN1upyeENq8c25i2HBKvsrtR3",
+          "3xfMqsQWoF5NmmRNm8zmjCXp4iLBsTR6nFLEA7BcEdos36Vi5ui5P7QhsK4iPuFCP2juyQnGFdJJ3D4nqB7TTo3o",
+          "3PSFUJZeLwCg7VenSVwYojPX1cKDpiHmWQBCLFaGMapsSQNWHfgo7wBqowkwz7jEwwDFUNHPUqFXhUrw5fkyeR9h"
+        ],
+        "reserves: event pool_quote == vault POST": [
+          "YxyzYgRZjMWZpooQhdGpmP1u3UU1Aa5xy3bA6sTNDQhPN1oxAnvF8jGE1pgHgXwN1upyeENq8c25i2HBKvsrtR3",
+          "3xfMqsQWoF5NmmRNm8zmjCXp4iLBsTR6nFLEA7BcEdos36Vi5ui5P7QhsK4iPuFCP2juyQnGFdJJ3D4nqB7TTo3o",
+          "3PSFUJZeLwCg7VenSVwYojPX1cKDpiHmWQBCLFaGMapsSQNWHfgo7wBqowkwz7jEwwDFUNHPUqFXhUrw5fkyeR9h"
+        ]
+      },
+      "swaps": 2599
+    },
+    "pumpswap_sell": {
+      "identity_hits": {
+        "base: d_base_vault == base_amount_in": "7767/7767 = 100.00%",
+        "quote: -d_quote_vault == quote_amount_out": "33/7767 = 0.42%",
+        "quote: -d_quote_vault == quote_amount_out_without_lp_fee": "7615/7767 = 98.04%",
+        "quote: -d_quote_vault == user_quote_amount_out": "135/7767 = 1.74%",
+        "reserves: event pool_base == vault POST": "0/7767 = 0.00%",
+        "reserves: event pool_base == vault PRE": "7767/7767 = 100.00%",
+        "reserves: event pool_quote == vault POST": "0/7767 = 0.00%",
+        "reserves: event pool_quote == vault PRE": "7767/7767 = 100.00%"
+      },
+      "miss_examples": {
+        "quote: -d_quote_vault == quote_amount_out": [
+          "4zCUJPrQkMePNcuHjzkTLn7GJVtLdoBJSvwabLx73LGYeKkwz6ge8JWE8L28aHk2uHqVoNXu1B64D8HAmcfS5ptu",
+          "35UNkzGPbMJzJkSQcuUZU4qRqFK9LjaJEZFRa12isFkrUnN9DGLNszBF5xVRefwmG7UaTcdYMs9wKUQMDR1rVHQU",
+          "3ozwLoayqwNQvRB8QVt1kkDuH9wKdgnStee8TY2LiKYcsZNjuMt1EAuFLx857XneZKXwdd4znhte75NjS4YQqX22"
+        ],
+        "quote: -d_quote_vault == quote_amount_out_without_lp_fee": [
+          "3vJs5ZjFGSqauXSvBYa7KCBLninJkVKprsnFAFY8n82YqL4mcrvWFggESwK2wxz6KPeW9w9xWZF4M6KrbF6upHt5",
+          "4Dh7jsmmz61zucNpw8J53k8ijwjcZE1n1YdmFSwRPmft4juPDLRg6ZwHLE4jA1DsGsgEud8jxfVjdnFiFbSGk2U3",
+          "wHfHZtW41GPqwQFEH72Pp5V5gKKyfrPZZCqsZE2T7wg4crPNdtZ25KsTJWRWdA3dxVRfPfh5YVfx44AeY2Ev7Ah"
+        ],
+        "quote: -d_quote_vault == user_quote_amount_out": [
+          "4zCUJPrQkMePNcuHjzkTLn7GJVtLdoBJSvwabLx73LGYeKkwz6ge8JWE8L28aHk2uHqVoNXu1B64D8HAmcfS5ptu",
+          "35UNkzGPbMJzJkSQcuUZU4qRqFK9LjaJEZFRa12isFkrUnN9DGLNszBF5xVRefwmG7UaTcdYMs9wKUQMDR1rVHQU",
+          "3ozwLoayqwNQvRB8QVt1kkDuH9wKdgnStee8TY2LiKYcsZNjuMt1EAuFLx857XneZKXwdd4znhte75NjS4YQqX22"
+        ],
+        "reserves: event pool_base == vault POST": [
+          "4zCUJPrQkMePNcuHjzkTLn7GJVtLdoBJSvwabLx73LGYeKkwz6ge8JWE8L28aHk2uHqVoNXu1B64D8HAmcfS5ptu",
+          "35UNkzGPbMJzJkSQcuUZU4qRqFK9LjaJEZFRa12isFkrUnN9DGLNszBF5xVRefwmG7UaTcdYMs9wKUQMDR1rVHQU",
+          "3ozwLoayqwNQvRB8QVt1kkDuH9wKdgnStee8TY2LiKYcsZNjuMt1EAuFLx857XneZKXwdd4znhte75NjS4YQqX22"
+        ],
+        "reserves: event pool_quote == vault POST": [
+          "4zCUJPrQkMePNcuHjzkTLn7GJVtLdoBJSvwabLx73LGYeKkwz6ge8JWE8L28aHk2uHqVoNXu1B64D8HAmcfS5ptu",
+          "35UNkzGPbMJzJkSQcuUZU4qRqFK9LjaJEZFRa12isFkrUnN9DGLNszBF5xVRefwmG7UaTcdYMs9wKUQMDR1rVHQU",
+          "3ozwLoayqwNQvRB8QVt1kkDuH9wKdgnStee8TY2LiKYcsZNjuMt1EAuFLx857XneZKXwdd4znhte75NjS4YQqX22"
+        ]
+      },
+      "swaps": 7767
+    }
+  },
+  "trailing_bytes_by_event": {
+    "meteora_damm_v2:EvtClaimPositionFee": {
+      "0": 11
+    },
+    "meteora_damm_v2:EvtClosePosition": {
+      "0": 9
+    },
+    "meteora_damm_v2:EvtCreatePosition": {
+      "0": 18
+    },
+    "meteora_damm_v2:EvtInitializePool": {
+      "0": 14
+    },
+    "meteora_damm_v2:EvtLiquidityChange": {
+      "0": 16
+    },
+    "meteora_damm_v2:EvtLockPosition": {
+      "0": 8
+    },
+    "meteora_damm_v2:EvtSwap2": {
+      "0": 12623
+    },
+    "pumpswap:BuyEvent": {
+      "8": 3540
+    },
+    "pumpswap:CloseUserVolumeAccumulatorEvent": {
+      "0": 14
+    },
+    "pumpswap:CreatePoolEvent": {
+      "0": 7
+    },
+    "pumpswap:ExtendAccountEvent": {
+      "0": 3
+    },
+    "pumpswap:InitUserVolumeAccumulatorEvent": {
+      "0": 3
+    },
+    "pumpswap:SellEvent": {
+      "8": 8709
+    },
+    "pumpswap:SweepPoolFeeEvent": {
+      "0": 43
+    },
+    "pumpswap:WithdrawEvent": {
+      "8": 3
+    }
+  },
+  "tx_failed": 10445,
+  "tx_pool_pairs_with_multiple_swaps": 1547,
+  "tx_success": 38179
+}
